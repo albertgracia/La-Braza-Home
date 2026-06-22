@@ -1,0 +1,6 @@
+{
+  "name": "Rioja Marketplace",
+  "description": "Marketplace de vinos selectos de La Rioja con sumiller virtual impulsado por IA, reserva de catas y exploración de bodegas exclusivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
